@@ -1,0 +1,8 @@
+prefix=/home/fizzer/enph353_ws/devel
+
+Name: cv
+Description: Description of cv
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

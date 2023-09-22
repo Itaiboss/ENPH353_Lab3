@@ -1,0 +1,8 @@
+<launch>
+   <!-- My Package launch file -->
+      <node pkg="cv"
+               type="cv_control.py"
+	                name="cv_control" 
+			         output="screen">
+		</node>
+</launch>
